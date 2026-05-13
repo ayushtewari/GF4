@@ -174,6 +174,21 @@ Discarding reconstruction due to bad initial pair
 
 This usually means that COLMAP found too few geometrically reliable image pairs, or that the available pairs lacked sufficient parallax.
 
+### Also run the Python workflow (pycolmap)
+
+After completing the GUI workflow above, run the Week 1 Python script as a second method.
+This helps you compare GUI-based and script-based reconstruction workflows.
+
+From the workspace root, run:
+
+```bash
+conda run -n gf4-sfm python GF4/week1/test.py \
+   --image-dir path_to_image_folder \
+   --output-dir path_to_output_folder \
+   --threads 2 \
+```
+You should be comfortable with both GUI and python implementations. You can choose either for the next experiments.
+
 ---
 
 
@@ -294,7 +309,6 @@ Practical work is performed in groups of 3, but each student must submit their o
    |---|---|
    | number of input images | How many images you provided |
    | number of registered images | How many images COLMAP successfully used |
-   | registration percentage | registered / input images |
    | number of sparse points | approximate sparse reconstruction size |
    | camera poses plausible? | yes / partial / no |
    | qualitative quality | good / partial / poor / failed |
@@ -303,11 +317,11 @@ Practical work is performed in groups of 3, but each student must submit their o
 
    Create a table like this:
 
-   | Dataset | Input images | Registered images | Registration % | Sparse points | Camera poses plausible? | Main observation |
-   |---|---:|---:|---:|---:|---|---|
-   | Best capture | | | | | | |
-   | Minimal/subsampled | | | | | | |
-   | Challenging/failure (3 rows) | | | | | | |
+   | Dataset | Input images | Registered images | Sparse points | Camera poses plausible? | Main observation |
+   |---|---:|---:|---:|---|---|
+   | Best capture | | | | | |
+   | Minimal/subsampled | | | | | |
+   | Challenging/failure (3 rows) | | | | | |
 
    
    - For each scene, include visualizations of the feature matches, recovered camera poses, and the 3D reconstruction.
