@@ -5,6 +5,15 @@
 - Thursdays 9-11am
 - Mondays 11-1pm
 
+## Project Groups
+
+- Group 1: G. Fanzer (fg442), Y. Pu (yp299), S.K. Pal (skp58)
+- Group 2: M. Fylpchuk (mf818), T. Owen (to353), S. Sivaraya (ss3114)
+- Group 3: Y. Wei (ytw25), N.Y. Ouis (nyo21), S. Li (sl2192)
+- Group 4: E. Gu (eg685), V. Leoutsakos (vl346), J. Chen (jc2474)
+- Group 5: Y-H. Liu (yhl63), R. Ivanchuk (ri302), J. Parimi (jp2057)
+- Group 6: J. Everett (je477), H.J. Dalton (hd504), T.I.H. Hawkins (th706)
+
 ## Objectives
 
 By the end of the course, students should be able to:
