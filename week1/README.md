@@ -1,6 +1,10 @@
 # GF4 Structure from Motion — Week 1 Guide
 ## Empirical Study of Sparse SfM with COLMAP
 
+## Report templates
+
+- Overleaf template: https://www.overleaf.com/read/jzfdccmknccp#17a7ee
+
 **Goal:** Use COLMAP as a professional reference system to understand what sparse Structure from Motion produces and what image-capture conditions make it succeed or fail.  
 **Main deliverable:** A structured intermediate report analysis COLMAP sparse reconstructions, camera-pose visualisations, feature/match inspection, controlled capture experiments, and explanations of success/failure.
 
