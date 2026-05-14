@@ -36,10 +36,6 @@ Antonio Torralba, Phillip Isola, and William T. Freeman,
 **“Multiview Geometry and Structure from Motion”**  
 https://visionbook.mit.edu/multiview.html
 
-Required sections:
-
-- 44.1 Introduction
-- 44.2 Structure from Motion
 
 Main idea:
 
