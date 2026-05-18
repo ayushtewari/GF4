@@ -1,9 +1,13 @@
 # GF4: Structure from Motion
 
+## Next Sessions
+- 18 May: JDB Seminar Room
+- 21 May: LR 11
 ## Compulsory Sessions
 
 - Thursdays 9-11am
 - Mondays 11-1pm
+
 
 ## Project Groups
 
