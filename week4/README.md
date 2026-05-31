@@ -113,7 +113,8 @@ A 5-minute presentation requires more careful preparation than a longer one. You
 By the deadline, submit:
 
 - final group code,
-- final group presentation,
 - final individual report.
+
+Please make two uploads on moodle, one for the code and another for the report. Everyone needs to upload the report, and any one person can make the upload for the code. 
 
 All group members should understand the submitted code, results, and presentation material.
