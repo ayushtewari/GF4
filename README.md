@@ -1,15 +1,23 @@
 # GF4: Structure from Motion
 
-## Next Sessions
+## Sessions
 
-- 21 May: LR 11
-- 25 May: Bank Holiday. I will be available in my office (BE4-54) on 26 May between 3-4pm if you have questions.
-- 28 May: LR 11
+- 1 June: LR11
+- 4 June: LR11
 
 ## Compulsory Sessions
 
 - Thursdays 9-11am
 - Mondays 11-1pm
+
+## Project Groups
+
+- Group 1: F. Ganzer (fg442), Y. Pu (yp299), S.K. Pal (skp58)
+- Group 2: M. Fylpchuk (mf818), T. Owen (to353), S. Sivaraya (ss3114)
+- Group 3: Y. Wei (ytw25), N.Y. Ouis (nyo21), S. Li (sl2192)
+- Group 4: E. Gu (eg685), V. Leoutsakos (vl346), J. Chen (jc2474)
+- Group 5: Y-H. Liu (yhl63), R. Ivanchuk (ri302), J. Parimi (jp2057)
+- Group 6: J. Everett (je477), H.J. Dalton (hd504), T.I.H. Hawkins (th706)
 
 ## Objectives
 
@@ -58,9 +66,10 @@ The project culminates in a short group presentation and an individual final rep
 
 ### Week 4
 
-- extending the sparse reconstruction to a small image sequence
+- extending the sparse reconstruction to one or more small image sets
 - comparing with COLMAP and analysing failure cases
 - preparing and delivering final presentation and report
+- detailed guide: [week4/README.md](week4/README.md)
 
 ## Coursework
 
